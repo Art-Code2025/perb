@@ -30,9 +30,9 @@ const corsOptions = {
     'http://localhost:5173', // Development frontend
     'http://localhost:5174', // Another local dev port if needed
     'http://localhost:3000', // Common local dev port
-    'https://perfuym.netlify.app',
-    'http://perfuym.netlify.app',
-    'perfuym.netlify.app'      // Your new Netlify frontend URL
+    'https://perfuymm.netlify.app',
+    'http://perfuymm.netlify.app',
+    'perfuymm.netlify.app'      // Your new Netlify frontend URL
   ],
   credentials: true,
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],

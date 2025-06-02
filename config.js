@@ -7,7 +7,7 @@ export const config = {
     dockerUri: process.env.MONGODB_DOCKER_URI || 'mongodb://mongodb:27017/perf', // Changed to perf
     localUri: process.env.MONGODB_LOCAL_URI || 'mongodb://localhost:27017/perf', // Changed to perf
     dbName: process.env.DB_NAME || 'perf', // Ensure this is 'perf'
-   options: {
+    options: {
       useNewUrlParser: true,
       useUnifiedTopology: true,
     },
