@@ -29,6 +29,9 @@ const corsOptions = {
   origin: [
     'http://localhost:5173', // Development frontend
     'http://localhost:5174', // Another local dev port if needed
+    'http://localhost:5175', // Another local dev port if needed
+    'http://localhost:5176', // Another local dev port if needed
+    'http://localhost:5177', // Another local dev port if needed
     'http://localhost:3000', // Common local dev port
     'https://perfuymm.netlify.app',
     'http://perfuymm.netlify.app',
